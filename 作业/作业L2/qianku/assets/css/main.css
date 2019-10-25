@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{    background-size:1210px 900px;
+    background-repeat:no-repeat;
+    
+}
+.header {
+    width: 100%;
+    /* ... */
+}
+h1{
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+    float: left;
+}
+.head{
+    padding-top: 30px;
+    padding-left: 100px;
+    text-align: right
+}
+a{
+    color: white;
+    margin-left: 70px;
+    font-size:14px;
+    font-weight: 20;
+    
+}
+.bb{
+    background-color:rgba(43, 105, 221, 0.589);
+    width: 60px;
+    height: 23px;
+    border: none;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+    color: white;
+
+}
+.ba{
+    background-color:rgba(27, 197, 240, 0.589);
+    width: 60px;
+    height: 23px;
+    border: none;
+    margin-left: 140px;
+    margin-right: 60px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: white;
+}
+.a{margin-top: 35px;
+    margin-left: 140px;
+    color: white;
+    font-size: 23px;
+
+
+}
+.b{margin-top: 35px;
+    margin-left: 140px;
+    color: white;
+    font-size: 13px;
+}
+
+.one{width: 300px;
+    height: 350px;
+    background-color: white;
+    float: left;
+    margin: 40px;
+    text-align: center;
+    border-radius: 25px;
+}
+.two{width: 300px;
+    height: 350px;
+    background-color: white;
+    float: left;
+    margin: 40px;
+    text-align: center;
+    border-radius: 25px;
+}
+.three{width: 300px;
+    height: 350px;
+    background-color: white;
+    float: left;
+    margin: 40px;
+    text-align: center;
+    border-radius: 25px;
+}
